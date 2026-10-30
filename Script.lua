@@ -2,7 +2,7 @@
 -- Skrypt Mage: DeathCount, ShopClock, Startup Webhook + Wykrywanie 0 HP, Shift, NPC, Łóżko & Kawa
 
 -- 1. KONFIGURACJA WEBHOOKA
-local DISCORD_WEBHOOK_URL = Webhooka Discord -- Podmień na swój link z Discorda
+local DISCORD_WEBHOOK_URL = webhooka_discord -- Podmień na swój link z Discorda
 
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
