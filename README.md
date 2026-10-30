@@ -22,7 +22,7 @@ A completely designed and tested system for automatically logging events and sta
 1. Copy the code ⬇️
 ```
 webhooka_discord = "Webhooka Discord" -- Enter Discord webhook link here
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/quickpig9/Animal-Hospital_Log-Webhooka-Discord/refs/heads/main/Script.lua"))()
 ```
 2. Paste it into your Executor.
 3. Replace the Discord webhook URL in the designated location within the script.
