@@ -8,9 +8,12 @@ It’s already in the script:
 7. Max Death Normal Patient,
 8. Barney, Doctor.
 Planning to add new features to the script:
-1. DisplayBubble e.g. [Name Npc] say [text]
-2. What does an NPC need?
-3. Cameras status
-4. information that the doctor has unlocked a free Taser
-5. Taser is Ready to Use!
-More Soon
+1. DisplayBubble e.g. [Name Npc] say [text],
+2. What does an NPC need?,
+3. Cameras status,
+4. information that the doctor has unlocked a free Taser,
+5. Free Taser is Ready to Use!,
+6. Information on which NPC has fainted and their location in the hospital,
+7. information that the player has 100, 50, 10, or 5 Sanity,
+8. information about start/end event "Rain"
+More Soon! 🔜
