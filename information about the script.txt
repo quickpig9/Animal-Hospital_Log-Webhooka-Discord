@@ -1,0 +1,16 @@
+It’s already in the script:
+1. Preliminary information,
+2. [Name NPC] now is on bed in [Room],
+3. Patient [Name NPC] is [Normal ✅ or Anomaly ⚠️],
+4. Coffee now is Ready! ☕,
+5. A new shift [Shift] 🗓️,
+6. List of items in the Limited-Time Shop: [List of items],
+7. Max Death Normal Patient,
+8. Barney, Doctor.
+Planning to add new features to the script:
+1. DisplayBubble e.g. [Name Npc] say [text]
+2. What does an NPC need?
+3. Cameras status
+4. information that the doctor has unlocked a free Taser
+5. Taser is Ready to Use!
+More Soon
